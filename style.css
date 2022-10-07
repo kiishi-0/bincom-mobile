@@ -459,6 +459,11 @@ main p.desc{
         padding-top: 30px;
     }
 }
+@media only screen and (max-width: 440px){
+    .projects-section .content-div .proj .text{
+        width: 100%;
+    }
+}
 /* -------------------------- Footer Section ----------------------------------------- */
 footer{
     display: flex;
